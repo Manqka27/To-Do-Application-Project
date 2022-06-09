@@ -17,6 +17,7 @@ namespace To_Do_Application
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            //az moga da programiram
         }
     }
 }
